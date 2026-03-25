@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.2.11408.102 d18.0
+VisualStudioVersion = 18.2.11408.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MastermindGame", "Ex05 Yarden 322237306 Tal 322524521\MastermindGame.csproj", "{0DFC3329-DDE0-487C-9D64-0917E1A23E04}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastermind.Logic", "Ex05.Logic\Mastermind.Logic.csproj", "{222B53C4-A219-4F4C-840D-4B6B37C8F930}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastermind.UI", "Ex05.UI\Mastermind.UI.csproj", "{48BC79EC-F5AC-43D5-B761-EBC972E92833}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0DFC3329-DDE0-487C-9D64-0917E1A23E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0DFC3329-DDE0-487C-9D64-0917E1A23E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0DFC3329-DDE0-487C-9D64-0917E1A23E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0DFC3329-DDE0-487C-9D64-0917E1A23E04}.Release|Any CPU.Build.0 = Release|Any CPU
 		{222B53C4-A219-4F4C-840D-4B6B37C8F930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{222B53C4-A219-4F4C-840D-4B6B37C8F930}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{222B53C4-A219-4F4C-840D-4B6B37C8F930}.Release|Any CPU.ActiveCfg = Release|Any CPU
