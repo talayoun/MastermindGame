@@ -60,7 +60,7 @@
     <Compile Include="Program.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Ex05.Logic\Mastermind.Logic.csproj">
+    <ProjectReference Include="..\Mastermind.Logic\Mastermind.Logic.csproj">
       <Project>{222b53c4-a219-4f4c-840d-4b6b37c8f930}</Project>
       <Name>Mastermind.Logic</Name>
     </ProjectReference>
